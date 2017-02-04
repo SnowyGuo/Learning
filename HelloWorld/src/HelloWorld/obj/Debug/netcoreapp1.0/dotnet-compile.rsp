@@ -1,5 +1,5 @@
---temp-output:d:\visual studio 2015\dotnet core\Projects\HelloWorld\src\HelloWorld\obj\Debug\netcoreapp1.0\
---out:d:\visual studio 2015\dotnet core\Projects\HelloWorld\src\HelloWorld\bin\Debug\netcoreapp1.0\HelloWorld.dll
+--temp-output:D:\project\Learning\HelloWorld\src\HelloWorld\obj\Debug\netcoreapp1.0\
+--out:D:\project\Learning\HelloWorld\src\HelloWorld\bin\Debug\netcoreapp1.0\HelloWorld.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -86,5 +86,5 @@
 --reference:C:\Users\admin\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\admin\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\admin\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-d:\visual studio 2015\dotnet core\Projects\HelloWorld\src\HelloWorld\Program.cs
-d:\visual studio 2015\dotnet core\Projects\HelloWorld\src\HelloWorld\Properties\AssemblyInfo.cs
+D:\project\Learning\HelloWorld\src\HelloWorld\Program.cs
+D:\project\Learning\HelloWorld\src\HelloWorld\Properties\AssemblyInfo.cs

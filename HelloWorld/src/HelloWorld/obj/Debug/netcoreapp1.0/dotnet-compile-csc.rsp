@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"d:\visual studio 2015\dotnet core\Projects\HelloWorld\src\HelloWorld\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"d:\visual studio 2015\dotnet core\Projects\HelloWorld\src\HelloWorld\bin\Debug\netcoreapp1.0\HelloWorld.dll"
+"D:\project\Learning\HelloWorld\src\HelloWorld\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"D:\project\Learning\HelloWorld\src\HelloWorld\bin\Debug\netcoreapp1.0\HelloWorld.dll"
 -r:"C:\Users\admin\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\admin\.nuget\packages\Microsoft.VisualBasic\10.0.1\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\admin\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -82,5 +82,5 @@
 -r:"C:\Users\admin\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\admin\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\admin\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
-"d:\visual studio 2015\dotnet core\Projects\HelloWorld\src\HelloWorld\Program.cs"
-"d:\visual studio 2015\dotnet core\Projects\HelloWorld\src\HelloWorld\Properties\AssemblyInfo.cs"
+"D:\project\Learning\HelloWorld\src\HelloWorld\Program.cs"
+"D:\project\Learning\HelloWorld\src\HelloWorld\Properties\AssemblyInfo.cs"
